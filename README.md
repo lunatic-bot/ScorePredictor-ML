@@ -60,7 +60,7 @@ http://score-prediction-hqh6esdrdwazchbc.canadacentral-01.azurewebsites.net
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/lunatic-bot/MLProject.git
+   git clone https://github.com/lunatic-bot/ScorePredictor.git
    cd project
    ```
 
